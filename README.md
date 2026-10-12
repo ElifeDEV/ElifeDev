@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Elife 👋
+# Olá, meu nome é Elifeleth 👋
 
 ### Construindo minha trajetória em tecnologia, um projeto de cada vez.
 
